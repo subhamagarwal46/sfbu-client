@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sfbu-client/static/css/main.7845b870.css",
+    "main.js": "/sfbu-client/static/js/main.5f0758c7.js",
+    "static/js/787.df58f182.chunk.js": "/sfbu-client/static/js/787.df58f182.chunk.js",
+    "static/media/admin.jpg": "/sfbu-client/static/media/admin.610e1eb6e79a698c7b85.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/sfbu-client/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/rahul.jpeg": "/sfbu-client/static/media/rahul.daa23da23aa32b040901.jpeg",
+    "static/media/fontawesome-webfont.eot": "/sfbu-client/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/sfbu-client/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/navya.jpeg": "/sfbu-client/static/media/navya.d79cc2a996d61214e522.jpeg",
+    "static/media/himavanth.jpeg": "/sfbu-client/static/media/himavanth.b4f3b9a2c437dc4932f2.jpeg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/sfbu-client/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/sfbu-client/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/sfbu.jpeg": "/sfbu-client/static/media/sfbu.671e406ce9477f5ed17f.jpeg",
+    "static/media/gowtham.jpeg": "/sfbu-client/static/media/gowtham.11099696bbf2a0fe548f.jpeg",
+    "index.html": "/sfbu-client/index.html",
+    "main.7845b870.css.map": "/sfbu-client/static/css/main.7845b870.css.map",
+    "main.5f0758c7.js.map": "/sfbu-client/static/js/main.5f0758c7.js.map",
+    "787.df58f182.chunk.js.map": "/sfbu-client/static/js/787.df58f182.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7845b870.css",
+    "static/js/main.5f0758c7.js"
+  ]
+}
